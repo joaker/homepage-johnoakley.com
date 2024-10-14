@@ -37,10 +37,15 @@ const Resume = () => {
           <b>Email:</b>  <a href="mailto:jooakley@gmail.com">jooakley@gmail.com</a>
         </p>
         <p>
-          <b>Calendly:</b>  <a href="https://calendly.com/jfo3">book time with me</a>
+          <b>Calendly:</b>  <a href="https://calendly.com/jfo3">Book time with me</a>
+        </p>
+        <p>
+          <b>Github:</b>  <a href="https://github.com/joaker">Code with me</a>
+        </p>
+        <p>
+          <b>LinkedIn:</b>  <a target="_blank" href="https://www.linkedin.com/in/john-oakley-2221a316/">Professional Inquiries</a>
         </p>
       </section>
-
     </div>
   );
 };
