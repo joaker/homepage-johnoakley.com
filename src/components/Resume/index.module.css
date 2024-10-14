@@ -1,0 +1,70 @@
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF; /* White background */
+    color: #000000; /* Black text */
+  }
+  
+  .header {
+    background-color: #003366; /* Dark blue */
+    color: 'black'; /* Black text */
+    background-color: #F2F2F2; /* Light silver */
+    background-color: #FFF; /* Light silver */
+    color: #F2F2F2; /* Light silver */
+    padding: 20px;
+    background-color: #000;
+  }
+  
+  .intro {
+    background-color: #F2F2F2; /* Light silver */
+    background-color: #FFF; /* Light silver */
+    color: #051e36; /* TV blue */
+    padding: 20px;
+  }
+  
+  .section > * {
+    padding: 20px;
+  }
+  
+  .sectionOdd {
+    background-color: #FFFFFF; /* White */
+  }
+  
+  .sectionEven {
+    background-color: #F9F9F9; /* Very light grey */
+  }
+  
+  .heading2 {
+    background-color: #000;
+    color: #F9F9F9; /* Very light grey */
+    border-bottom: 2px solid #6A5ACD;
+    padding-bottom: 10px;
+  }
+  
+  .heading3 {
+    color: #6A5ACD; /* Purple accent */
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .company {
+    color: #DAA520; /* Gold accent */
+    font-weight: bold;
+    margin: 20px 0px 0px 0px;
+  }
+  
+  .date {
+    font-style: italic;
+    color: #808080; /* Grey */
+    margin-bottom: 15px;
+  }
+  
+  .list {
+    margin-top: 0;
+  }
+  
+  .listItem {
+    margin-bottom: 10px;
+  }
+  
