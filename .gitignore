@@ -10,7 +10,7 @@
 
 # production
 /build
-/dist/homepage/*
+/dist/homepage/**
 
 # sftp
 sftp-config.json
