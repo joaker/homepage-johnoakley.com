@@ -11,7 +11,8 @@ const Resume = () => {
           I'm John Oakley.
         </h3>
       </section>
-      <section className={styles.hero}>
+      <section className={styles.heroWrapper}>
+        <div className={styles.hero}></div>
       </section>
       <section className={classNames(styles.intro, styles.odd)}>
         <h2>Intro</h2>
